@@ -1,8 +1,7 @@
 ## Challenges
 
 # Ethan
-# 1. Build a simple calculator
-# - Print the sum of two user inputted values
+# 2. Have the user input through the command line
 def calculateSum(totalAddends):
     print("Calculatron 4000")
     print("Which numbers would you like to add together?")

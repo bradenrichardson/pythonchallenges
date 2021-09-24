@@ -1,8 +1,3 @@
-## Challenges
-
-# Ethan
-# 2. Add functionality for multiplication, division and subtraction
-# 3. Allow any number of user inputs from the command line ie. 4 + 7 * 31 + 433 - 45 = 609
 def calculateSum(totalAddends):
     print("Calculatron 4000")
     print("Which numbers would you like to add together?")
